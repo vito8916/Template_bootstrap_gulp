@@ -1,0 +1,10 @@
+$bgColor: #cccccc;
+
+body {
+    background-color: $bgColor;
+}
+
+.main   {
+    display: flex;
+    justify-content: center;
+}
